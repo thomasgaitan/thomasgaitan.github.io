@@ -1,6 +1,5 @@
 # EDM II Capstone Project-- Board To Be Wild
 ## Artifact Title
-
 EDM II Capstone
 ## Project Description
 This page contains my EDM II Capstone report for the project Board To
